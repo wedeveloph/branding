@@ -9,6 +9,7 @@ Branding guidelines to come later on. Make sure to get in touch with us if you w
 
 The Developh logo is always presented with both its icon and wordmark. 
 
+<img src="https://i.imgur.com/fFaTH8f.png">
 
 In cases where the full logo is too long for a pubmat/collateral, only the icon is used. However, this is only allowed when the Developh name is already evident (i.e. a pubmat on our own social media page). For external media (partners/sponsors), please use the full logo. 
 
