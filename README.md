@@ -16,6 +16,6 @@ Whether with wordmark or without wordmark, the logo must always have a healthy a
 
 The logo is only allowed to be presented in shades of blue, black, and white. The background color should be high-contrast to the color it is presented in.
 
-![Appropriate Developh logo usage samples](https://i.imgur.com/Js08Kj0.png "Appropriate Developh logo usage samples" | width=250)
+<img src="https://i.imgur.com/Js08Kj0.png" width="220px" alt="Appropriate Developh logo usage samples">
 
 [See you!](http://developh.org)
