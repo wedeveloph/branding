@@ -1,7 +1,7 @@
 # Branding
-Hi there.
+Hey! Here are our logos; get in touch with us if you need to use them or pick them up from here if we've agreed on them. PNGs and JPEGs are up for download but if you're in need of other formats or have questions, don't hesitate to email us.
 
-Our logo is available above. Make sure to get in touch with us if you want to use our logo.
+
 
 ## Logo Usage
 
