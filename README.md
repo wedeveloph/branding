@@ -42,9 +42,9 @@ However, in cases where generic icons aren't enough, we use custom-made illustra
 
 Developh is a student-run organization that aims to make technology more accessible to youth in the developing world. As a result, we aim to be understandable and relatable in our writing. These are our rules for copy:
 
-We are direct. Basically, we try to avoid writing long-winded stories if our message can be expressed in a few sentences only. 
-We are expressive. Despite being straight to the point, we take great liberty in describing our message, in order to make our message clear. An example of this is often using more than one adjective (especially with descriptors in rule #3, see below).
-We are passionate. In line with rule #2 (see above), descriptors of our mission usually appear in our copy. Examples of these include the following: equitable, accessible, inclusive, diverse.
+1. We are direct. Basically, we try to avoid writing long-winded stories if our message can be expressed in a few sentences only. 
+2. We are expressive. Despite being straight to the point, we take great liberty in describing our message, in order to make our message clear. An example of this is often using more than one adjective (especially with descriptors in rule #3, see below).
+3. We are passionate. In line with rule #2 (see above), descriptors of our mission usually appear in our copy. Examples of these include the following: equitable, accessible, inclusive, diverse.
 
 Our tone changes depending on our audience. In our [social media](https://www.facebook.com/develophorg/), our tone is usually informal (with a moderate dose of emojis and hashtags). In situations with a professional audience (e.g. EduTECH Conference), our tone becomes formal. Feel free to use technical terms in making your message clear. See our website's [About](http://developh.org/about) page as a reference.
 
